@@ -8,7 +8,9 @@
         <version>3.2.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <!--    nó giống như tên miền nhưng viết ngược -->
     <groupId>vn.hoidanit</groupId>
+
     <artifactId>laptopshop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>laptopshop</name>
